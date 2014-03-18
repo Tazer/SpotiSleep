@@ -1,0 +1,42 @@
+{
+  "AppDescription": {
+    "en": "Spoti Sleep pauses your music after x mintues",
+  },
+  "AppIcon": {
+    "18x18": "images/icons/icon-18x18.png",
+    "36x18": "images/icons/icon-36x18.png",
+    "32x32": "images/icons/icon-32x32.png",
+    "64x64": "images/icons/icon-64x64.png",
+    "128x128": "images/icons/icon-128x128.png",
+    "300x300": "images/icons/icon-300x300.png"
+  },
+  "AppName": {
+    "de": "Spoti Sleep",
+    "en": "Spoti Sleep",
+    "es": "Spoti Sleep",
+    "es-419": "Spoti Sleep",
+    "fr": "Spoti Sleep",
+    "it": "Spoti Sleep",
+    "nl": "Spoti Sleep",
+    "pl": "Spoti Sleep",
+    "zh-Hant": "Spoti Sleep"
+  },
+  "BundleIdentifier": "spotisleep-app",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "RequiredPermissions": [
+  
+  ],
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "en",
+  ],
+  "VendorIdentifier": "se.codespark"
+}
